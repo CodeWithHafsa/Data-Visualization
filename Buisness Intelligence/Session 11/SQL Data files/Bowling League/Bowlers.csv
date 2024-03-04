@@ -1,0 +1,35 @@
+BowlerID,BowlerLastName,BowlerFirstName,BowlerMiddleInit,BowlerAddress,BowlerCity,BowlerState,BowlerZip,BowlerPhoneNumber,TeamID,BowlerTotalPins,BowlerGamesBowled,BowlerCurrentAverage,BowlerCurrentHcp
+1,Fournier,Barbara,,67 Willow Drive,Bothell,WA,98014,(206) 555-9876,1,5790,39,148,47
+2,Fournier,David,,67 Willow Drive,Bothell,WA,98014,(206) 555-9876,1,6152,39,158,38
+3,Kennedy,John,A,2957 W 33rd,Ballard,WA,98154,(206) 555-7854,1,6435,39,165,32
+4,Sheskey,Sara,J,17950 N 59th,Seattle,WA,98011,(206) 555-9893,1,5534,39,142,52
+5,Patterson,Ann,K,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,2,5819,39,149,46
+6,Patterson,Neil,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,2,6150,39,158,38
+7,Viescas,David,A,16679 NE 42nd Court,Redmond,WA,98052,(206) 882-8878,2,6607,39,169,28
+8,Viescas,Stephanie,,16679 NE 42nd Court,Redmond,WA,98052,(206) 882-8878,2,5558,39,143,51
+9,Black,Alastair,,4726 - 11th Ave. N.E.,Seattle,WA,98105,(206) 555-1189,3,5874,39,151,44
+10,Cunningham,David,,4110 Old Redmond Rd.,Redmond,WA,98052,(206) 555-8122,3,6184,39,159,37
+11,Kennedy,Angel,,2957 W 33rd,Ballard,WA,98154,(206) 555-7854,3,6372,39,163,33
+12,Viescas,Carol,M,16345 NE 32nd Street,Bellevue,WA,98004,(206) 555-7295,3,5560,39,143,51
+13,Hallmark,Elizabeth,,"Route 2, Box 203B",Woodinville,WA,98072,(206) 555-8990,4,5928,39,152,43
+14,Hallmark,Gary,,"Route 2, Box 203B",Woodinville,WA,98072,(206) 555-8990,4,6116,39,157,39
+15,Patterson,Kathryn,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,4,6313,39,162,34
+16,Sheskey,Richard,,17950 N 59th,Seattle,WA,98011,(206) 555-9893,4,5549,39,142,52
+17,Hernandez,Kendra,,47 Harvard Drive,Kirkland,WA,98033,(206) 889-9191,5,5854,39,150,45
+18,Hernandez,Michael,,47 Harvard Drive,Kirkland,WA,98033,(206) 889-9191,5,6125,39,157,39
+19,Viescas,John,L,218 Main Street,Redmond,WA,98052,(206) 881-5596,5,6581,39,169,28
+20,Viescas,Suzanne,L,218 Main Street,Redmond,WA,98052,(206) 881-5596,5,5589,39,143,51
+21,Ehrlich,Zachary,,507 - 20th Ave. E.,Seattle,WA,98122,(206) 555-9857,6,5767,39,148,47
+22,Hallmark,Alaina,,"Route 2, Box 203B",Woodinville,WA,98072,(206) 555-8990,6,6147,39,158,38
+23,Viescas,Caleb,,16679 NE 42nd Court,Redmond,WA,98052,(206) 882-8878,6,6422,39,165,32
+24,Thompson,Sarah,L,122 Spring Valley Drive,Duvall,WA,98019,(206) 555-8989,6,6589,39,169,28
+25,Patterson,Megan,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,7,5843,39,150,45
+26,Thompson,Mary,K,122 Spring Valley Drive,Duvall,WA,98019,(206) 555-8989,7,6137,39,157,39
+27,Thompson,William,G,122 Spring Valley Drive,Duvall,WA,98019,(206) 555-8989,7,6532,39,167,30
+28,Viescas,Michael,L,218 Main Street,Redmond,WA,98052,(206) 881-5596,7,5575,39,143,51
+29,Hallmark,Bailey,,"Route 2, Box 203B",Woodinville,WA,98072,(206) 555-8990,8,5848,39,150,45
+30,Patterson,Rachel,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,8,6126,39,157,39
+31,Clothier,Ben,,722 Moss Bay Blvd.,Kirkland,WA,98033,(206) 555-3412,8,6387,39,164,32
+32,Rosales,Joe,,908 W. Capital Way,Tacoma,WA,98404,(206) 555-9482,8,5525,39,142,52
+33,Patterson,Kerry,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,7,0,0,0,0
+34,Patterson,Maria,,16 Maple Lane,Auburn,WA,98002,(206) 555-3487,7,0,0,0,0

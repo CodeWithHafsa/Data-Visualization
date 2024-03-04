@@ -1,0 +1,20 @@
+StudentID,StudFirstName,StudLastName,StudStreetAddress,StudCity,StudState,StudZipCode,StudAreaCode,StudPhoneNumber,StudGPA,StudMajor
+1001,Kerry,Patterson,9877 Hacienda Drive,San Antonio,TX,78284,210,555-2706,74.465,1
+1002,David,Hamilton,908 W. Capital Way,Tacoma,WA,98413,253,555-2701,78.755,2
+1003,Betsy,Stadick,611 Alpine Drive,Palm Springs,CA,92263,760,555-2696,85.235,3
+1004,Janice,Galvin,4110 Old Redmond Rd.,Redmond,WA,98052,425,555-2691,81,4
+1005,Doris,Hartwig,4726 - 11th Ave. N.E.,Seattle,WA,98105,206,555-2671,72.225,5
+1006,Scott,Bishop,66 Spring Valley Drive,Medford,OR,97501,541,555-2666,88.5,6
+1007,Elizabeth,Hallmark,"Route 2, Box 203B",Marysville,WA,98271,253,555-2521,87.65,7
+1008,Sara,Sheskey,16679 NE 41st Court,Portland,OR,97208,503,555-2566,84.625,1
+1009,Karen,Smith,30301 - 166th Ave. N.E.,Eugene,OR,97401,541,555-2551,80,2
+1010,Marianne,Wier,908 W. Capital Way,Tacoma,WA,98413,253,555-2606,83.55,3
+1011,John,Kennedy,16679 NE 41st Court,Portland,OR,97208,503,555-2621,77.65,4
+1012,Sarah,Thompson,2222 Springer Road,Lubbock,TX,79402,806,555-2626,89.5,5
+1013,Michael,Viescas,"15127 NE 24th, #383",Redmond,WA,98052,425,555-2656,80.25,6
+1014,Kendra,Bonnicksen,12330 Larchlemont Lane,Seattle,WA,98105,206,555-2716,85.55,7
+1015,Brannon,Jones,777 Fenexet Blvd,Long Beach,CA,90809,562,555-0399,86,2
+1016,Steve,Pundt,2500 Rosales Lane,Dallas,TX,75204,972,555-9938,77.125,4
+1017,George,Chavez,281 Old Navy Road,Marysville,WA,98270,206,555-9930,79.25,6
+1018,Richard,Lum,754 Fourth Ave,Seattle,WA,98115,206,555-2296,72.55,7
+1019,Daffy,Dumbwit,4567 NE 32nd Ct,Bellevue,WA,98002,425,555-9872,0,

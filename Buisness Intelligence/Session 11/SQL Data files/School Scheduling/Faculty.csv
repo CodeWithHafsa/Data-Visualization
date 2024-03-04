@@ -1,0 +1,25 @@
+StaffID,Title,Status,Tenured
+98005,Professor,Full Time,TRUE
+98007,Professor,Full Time,TRUE
+98010,Professor,On Leave,TRUE
+98011,Instructor,Full Time,TRUE
+98012,Professor,Full Time,TRUE
+98013,Instructor,Full Time,TRUE
+98014,Associate Professor,Full Time,TRUE
+98019,Instructor,Full Time,TRUE
+98020,Instructor,Full Time,TRUE
+98025,Associate Professor,Full Time,TRUE
+98028,Professor,Full Time,TRUE
+98030,Instructor,Full Time,TRUE
+98036,Professor,Full Time,TRUE
+98040,Associate Professor,Full Time,TRUE
+98042,Associate Professor,Full Time,TRUE
+98045,Professor,Full Time,TRUE
+98048,Professor,Full Time,TRUE
+98052,Instructor,Part Time,FALSE
+98053,Instructor,Full Time,TRUE
+98055,Professor,Full Time,TRUE
+98059,Professor,Full Time,TRUE
+98062,Associate Professor,Full Time,FALSE
+98063,Instructor,Full Time,TRUE
+98064,Professor,Full Time,TRUE
