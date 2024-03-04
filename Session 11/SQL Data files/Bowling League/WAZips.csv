@@ -1,0 +1,524 @@
+ZIP,City,State
+98001,Auburn,WA
+98002,Auburn,WA
+98003,Federal Way,WA
+98004,Bellevue,WA
+98005,Bellevue,WA
+98006,Bellevue,WA
+98007,Bellevue,WA
+98008,Bellevue,WA
+98010,Black Diamond,WA
+98011,Bothell,WA
+98012,Bothell,WA
+98014,Carnation,WA
+98019,Duvall,WA
+98020,Edmonds,WA
+98021,Bothell,WA
+98022,Enumclaw,WA
+98023,Federal Way,WA
+98024,Fall City,WA
+98026,Edmonds,WA
+98027,Issaquah,WA
+98028,Kenmore,WA
+98029,Issaquah,WA
+98030,Kent,WA
+98031,Kent,WA
+98032,Kent,WA
+98033,Kirkland,WA
+98034,Kirkland,WA
+98036,Lynnwood,WA
+98037,Lynnwood,WA
+98038,Maple Valley,WA
+98039,Medina,WA
+98040,Mercer Island,WA
+98042,Kent,WA
+98043,Mountlake Terrace,WA
+98045,North Bend,WA
+98047,Pacific,WA
+98051,Ravensdale,WA
+98052,Redmond,WA
+98053,Redmond,WA
+98055,Renton,WA
+98056,Renton,WA
+98058,Renton,WA
+98059,Renton,WA
+98065,Snoqualmie,WA
+98070,Vashon,WA
+98072,Woodinville,WA
+98074,Sammamish,WA
+98075,Sammamish,WA
+98077,Woodinville,WA
+98092,Auburn,WA
+98101,Seattle,WA
+98102,Seattle,WA
+98103,Seattle,WA
+98104,Seattle,WA
+98105,Seattle,WA
+98106,Seattle,WA
+98107,Seattle,WA
+98108,Seattle,WA
+98109,Seattle,WA
+98110,Bainbridge Island,WA
+98112,Seattle,WA
+98115,Seattle,WA
+98116,Seattle,WA
+98117,Seattle,WA
+98118,Seattle,WA
+98119,Seattle,WA
+98121,Seattle,WA
+98122,Seattle,WA
+98125,Seattle,WA
+98126,Seattle,WA
+98131,Seattle,WA
+98132,Seattle,WA
+98133,Seattle,WA
+98134,Seattle,WA
+98136,Seattle,WA
+98144,Seattle,WA
+98146,Seattle,WA
+98148,Seattle,WA
+98154,Seattle,WA
+98155,Seattle,WA
+98158,Seattle,WA
+98161,Seattle,WA
+98164,Seattle,WA
+98166,Seattle,WA
+98168,Seattle,WA
+98174,Seattle,WA
+98177,Seattle,WA
+98178,Seattle,WA
+98188,Seattle,WA
+98198,Seattle,WA
+98199,Seattle,WA
+98201,Everett,WA
+98203,Everett,WA
+98204,Everett,WA
+98205,Everett,WA
+98208,Everett,WA
+98220,Acme,WA
+98221,Anacortes,WA
+98222,Blakely Island,WA
+98223,Arlington,WA
+98225,Bellingham,WA
+98226,Bellingham,WA
+98229,Bellingham,WA
+98230,Blaine,WA
+98232,Bow,WA
+98233,Burlington,WA
+98236,Clinton,WA
+98237,Concrete,WA
+98239,Coupeville,WA
+98240,Custer,WA
+98241,Darrington,WA
+98244,Deming,WA
+98245,Eastsound,WA
+98247,Everson,WA
+98248,Ferndale,WA
+98249,Freeland,WA
+98250,Friday Harbor,WA
+98251,Gold Bar,WA
+98252,Granite Falls,WA
+98253,Greenbank,WA
+98257,La Conner,WA
+98258,Lake Stevens,WA
+98260,Langley,WA
+98261,Lopez Island,WA
+98262,Lummi Island,WA
+98264,Lynden,WA
+98266,Maple Falls,WA
+98267,Marblemount,WA
+98270,Marysville,WA
+98271,Marysville,WA
+98272,Monroe,WA
+98273,Mount Vernon,WA
+98274,Mount Vernon,WA
+98275,Mukilteo,WA
+98277,Oak Harbor,WA
+98279,Olga,WA
+98281,Point Roberts,WA
+98282,Camano Island,WA
+98283,Rockport,WA
+98284,Sedro Woolley,WA
+98290,Snohomish,WA
+98292,Stanwood,WA
+98294,Sultan,WA
+98295,Sumas,WA
+98296,Snohomish,WA
+98303,Anderson Island,WA
+98304,Ashford,WA
+98305,Beaver,WA
+98310,Bremerton,WA
+98311,Bremerton,WA
+98312,Bremerton,WA
+98315,Silverdale,WA
+98320,Brinnon,WA
+98321,Buckley,WA
+98323,Carbonado,WA
+98325,Chimacum,WA
+98326,Clallam Bay,WA
+98327,Dupont,WA
+98328,Eatonville,WA
+98329,Gig Harbor,WA
+98330,Elbe,WA
+98331,Forks,WA
+98332,Gig Harbor,WA
+98333,Fox Island,WA
+98335,Gig Harbor,WA
+98336,Glenoma,WA
+98337,Bremerton,WA
+98338,Graham,WA
+98339,Port Hadlock,WA
+98340,Hansville,WA
+98342,Indianola,WA
+98346,Kingston,WA
+98349,Lakebay,WA
+98351,Longbranch,WA
+98354,Milton,WA
+98355,Mineral,WA
+98356,Morton,WA
+98358,Nordland,WA
+98359,Olalla,WA
+98360,Orting,WA
+98361,Packwood,WA
+98362,Port Angeles,WA
+98363,Port Angeles,WA
+98365,Port Ludlow,WA
+98366,Port Orchard,WA
+98367,Port Orchard,WA
+98368,Port Townsend,WA
+98370,Poulsbo,WA
+98371,Puyallup,WA
+98372,Puyallup,WA
+98373,Puyallup,WA
+98374,Puyallup,WA
+98375,Puyallup,WA
+98376,Quilcene,WA
+98377,Randle,WA
+98380,Seabeck,WA
+98381,Sekiu,WA
+98382,Sequim,WA
+98383,Silverdale,WA
+98387,Spanaway,WA
+98388,Steilacoom,WA
+98390,Sumner,WA
+98392,Suquamish,WA
+98394,Vaughn,WA
+98402,Tacoma,WA
+98403,Tacoma,WA
+98404,Tacoma,WA
+98405,Tacoma,WA
+98406,Tacoma,WA
+98407,Tacoma,WA
+98408,Tacoma,WA
+98409,Tacoma,WA
+98413,Tacoma,WA
+98418,Tacoma,WA
+98421,Tacoma,WA
+98422,Tacoma,WA
+98424,Tacoma,WA
+98433,Tacoma,WA
+98439,Lakewood,WA
+98443,Tacoma,WA
+98444,Tacoma,WA
+98445,Tacoma,WA
+98446,Tacoma,WA
+98465,Tacoma,WA
+98466,Tacoma,WA
+98467,University Place,WA
+98498,Lakewood,WA
+98499,Lakewood,WA
+98501,Olympia,WA
+98502,Olympia,WA
+98503,Lacey,WA
+98506,Olympia,WA
+98512,Olympia,WA
+98513,Olympia,WA
+98516,Olympia,WA
+98520,Aberdeen,WA
+98524,Allyn,WA
+98526,Amanda Park,WA
+98528,Belfair,WA
+98531,Centralia,WA
+98532,Chehalis,WA
+98533,Cinebar,WA
+98535,Copalis Beach,WA
+98536,Copalis Crossing,WA
+98537,Cosmopolis,WA
+98538,Curtis,WA
+98541,Elma,WA
+98542,Ethel,WA
+98546,Grapeview,WA
+98547,Grayland,WA
+98548,Hoodsport,WA
+98550,Hoquiam,WA
+98552,Humptulips,WA
+98555,Lilliwaup,WA
+98557,McCleary,WA
+98560,Matlock,WA
+98563,Montesano,WA
+98564,Mossyrock,WA
+98568,Oakville,WA
+98569,Ocean Shores,WA
+98570,Onalaska,WA
+98572,Pe Ell,WA
+98575,Quinault,WA
+98576,Rainier,WA
+98577,Raymond,WA
+98579,Rochester,WA
+98580,Roy,WA
+98581,Ryderwood,WA
+98582,Salkum,WA
+98584,Shelton,WA
+98585,Silver Creek,WA
+98586,South Bend,WA
+98588,Tahuya,WA
+98589,Tenino,WA
+98590,Tokeland,WA
+98591,Toledo,WA
+98592,Union,WA
+98593,Vader,WA
+98595,Westport,WA
+98596,Winlock,WA
+98597,Yelm,WA
+98601,Amboy,WA
+98602,Appleton,WA
+98603,Ariel,WA
+98604,Battle Ground,WA
+98605,Bingen,WA
+98606,Brush Prairie,WA
+98607,Camas,WA
+98609,Carrolls,WA
+98610,Carson,WA
+98611,Castle Rock,WA
+98612,Cathlamet,WA
+98613,Centerville,WA
+98616,Cougar,WA
+98619,Glenwood,WA
+98620,Goldendale,WA
+98621,Grays River,WA
+98624,Ilwaco,WA
+98625,Kalama,WA
+98626,Kelso,WA
+98628,Klickitat,WA
+98629,La Center,WA
+98631,Long Beach,WA
+98632,Longview,WA
+98635,Lyle,WA
+98638,Naselle,WA
+98640,Ocean Park,WA
+98642,Ridgefield,WA
+98643,Rosburg,WA
+98645,Silverlake,WA
+98647,Skamokawa,WA
+98648,Stevenson,WA
+98649,Toutle,WA
+98650,Trout Lake,WA
+98651,Underwood,WA
+98660,Vancouver,WA
+98661,Vancouver,WA
+98662,Vancouver,WA
+98663,Vancouver,WA
+98664,Vancouver,WA
+98665,Vancouver,WA
+98670,Wahkiacus,WA
+98671,Washougal,WA
+98672,White Salmon,WA
+98674,Woodland,WA
+98675,Yacolt,WA
+98682,Vancouver,WA
+98683,Vancouver,WA
+98684,Vancouver,WA
+98685,Vancouver,WA
+98686,Vancouver,WA
+98801,Wenatchee,WA
+98802,East Wenatchee,WA
+98812,Brewster,WA
+98813,Bridgeport,WA
+98814,Carlton,WA
+98815,Cashmere,WA
+98816,Chelan,WA
+98822,Entiat,WA
+98823,Ephrata,WA
+98826,Leavenworth,WA
+98827,Loomis,WA
+98828,Malaga,WA
+98830,Mansfield,WA
+98831,Manson,WA
+98832,Marlin,WA
+98833,Mazama,WA
+98834,Methow,WA
+98837,Moses Lake,WA
+98840,Okanogan,WA
+98841,Omak,WA
+98843,Orondo,WA
+98844,Oroville,WA
+98845,Palisades,WA
+98846,Pateros,WA
+98847,Peshastin,WA
+98848,Quincy,WA
+98849,Riverside,WA
+98850,Rock Island,WA
+98851,Soap Lake,WA
+98855,Tonasket,WA
+98856,Twisp,WA
+98857,Warden,WA
+98858,Waterville,WA
+98859,Wauconda,WA
+98862,Winthrop,WA
+98901,Yakima,WA
+98902,Yakima,WA
+98903,Yakima,WA
+98908,Yakima,WA
+98922,Cle Elum,WA
+98923,Cowiche,WA
+98926,Ellensburg,WA
+98929,Goose Prairie,WA
+98930,Grandview,WA
+98932,Granger,WA
+98933,Harrah,WA
+98935,Mabton,WA
+98936,Moxee,WA
+98937,Naches,WA
+98938,Outlook,WA
+98942,Selah,WA
+98944,Sunnyside,WA
+98946,Thorp,WA
+98947,Tieton,WA
+98948,Toppenish,WA
+98951,Wapato,WA
+98952,White Swan,WA
+98953,Zillah,WA
+99001,Airway Heights,WA
+99003,Chattaroy,WA
+99004,Cheney,WA
+99005,Colbert,WA
+99006,Deer Park,WA
+99008,Edwall,WA
+99009,Elk,WA
+99011,Fairchild AFB,WA
+99012,Fairfield,WA
+99013,Ford,WA
+99015,Freeman,WA
+99016,Greenacres,WA
+99017,Lamont,WA
+99018,Latah,WA
+99019,Liberty Lake,WA
+99021,Mead,WA
+99022,Medical Lake,WA
+99023,Mica,WA
+99025,Newman Lake,WA
+99026,Nine Mile Falls,WA
+99027,Otis Orchards,WA
+99029,Reardan,WA
+99030,Rockford,WA
+99031,Spangle,WA
+99032,Sprague,WA
+99033,Tekoa,WA
+99034,Tumtum,WA
+99036,Valleyford,WA
+99037,Veradale,WA
+99040,Wellpinit,WA
+99101,Addy,WA
+99103,Almira,WA
+99105,Benge,WA
+99107,Boyds,WA
+99109,Chewelah,WA
+99110,Clayton,WA
+99111,Colfax,WA
+99113,Colton,WA
+99114,Colville,WA
+99115,Coulee City,WA
+99116,Coulee Dam,WA
+99117,Creston,WA
+99118,Curlew,WA
+99119,Cusick,WA
+99121,Danville,WA
+99122,Davenport,WA
+99123,Electric City,WA
+99125,Endicott,WA
+99126,Evans,WA
+99127,Saint John,WA
+99128,Farmington,WA
+99129,Fruitland,WA
+99130,Garfield,WA
+99131,Gifford,WA
+99133,Grand Coulee,WA
+99134,Harrington,WA
+99135,Hartline,WA
+99136,Hay,WA
+99137,Hunters,WA
+99138,Inchelium,WA
+99139,Ione,WA
+99140,Keller,WA
+99141,Kettle Falls,WA
+99143,Lacrosse,WA
+99144,Lamona,WA
+99147,Lincoln,WA
+99148,Loon Lake,WA
+99150,Malo,WA
+99153,Metaline Falls,WA
+99154,Mohler,WA
+99156,Newport,WA
+99157,Northport,WA
+99158,Oakesdale,WA
+99159,Odessa,WA
+99160,Orient,WA
+99161,Palouse,WA
+99163,Pullman,WA
+99166,Republic,WA
+99167,Rice,WA
+99169,Ritzville,WA
+99170,Rosalia,WA
+99171,Saint John,WA
+99173,Springdale,WA
+99176,Thornton,WA
+99179,Uniontown,WA
+99180,Usk,WA
+99181,Valley,WA
+99185,Wilbur,WA
+99201,Spokane,WA
+99202,Spokane,WA
+99203,Spokane,WA
+99204,Spokane,WA
+99205,Spokane,WA
+99206,Spokane,WA
+99207,Spokane,WA
+99208,Spokane,WA
+99212,Spokane,WA
+99216,Spokane,WA
+99217,Spokane,WA
+99218,Spokane,WA
+99223,Spokane,WA
+99224,Spokane,WA
+99301,Pasco,WA
+99320,Benton City,WA
+99321,Beverly,WA
+99322,Bickleton,WA
+99323,Burbank,WA
+99324,College Place,WA
+99326,Connell,WA
+99327,Cunningham,WA
+99328,Dayton,WA
+99330,Eltopia,WA
+99336,Kennewick,WA
+99337,Kennewick,WA
+99338,Kennewick,WA
+99341,Lind,WA
+99343,Mesa,WA
+99344,Othello,WA
+99347,Pomeroy,WA
+99348,Prescott,WA
+99349,Mattawa,WA
+99350,Prosser,WA
+99352,Richland,WA
+99353,West Richland,WA
+99354,Richland,WA
+99356,Roosevelt,WA
+99357,Royal City,WA
+99360,Touchet,WA
+99361,Waitsburg,WA
+99362,Walla Walla,WA
+99371,Washtucna,WA
+99401,Anatone,WA
+99402,Asotin,WA
+99403,Clarkston,WA

@@ -1,0 +1,10 @@
+AgentID,AgtFirstName,AgtLastName,AgtStreetAddress,AgtCity,AgtState,AgtZipCode,AgtPhoneNumber,DateHired,Salary,CommissionRate
+1,William,Thompson,122 Spring River Drive,Redmond,WA,98053,555-2681,15/05/1997,"35,000.00",0.039999999
+2,Scott,Bishop,66 Spring Valley Drive,Seattle,WA,98125,555-2666,05/02/1998,"27,000.00",0.039999999
+3,Carol,Viescas,667 Red River Road,Bellevue,WA,98006,555-2571,19/11/1997,"30,000.00",0.050000001
+4,Karen,Smith,30301 - 166th Ave. N.E.,Seattle,WA,98125,555-2551,05/03/1998,"22,000.00",0.055
+5,Marianne,Wier,908 W. Capital Way,Tacoma,WA,98413,555-2606,02/02/1998,"24,500.00",0.045000002
+6,John,Kennedy,16679 NE 41st Court,Seattle,WA,98125,555-2621,15/05/1997,"33,000.00",0.059999999
+7,Caleb,Viescas,4501 Wetland Road,Redmond,WA,98052,555-0037,16/02/1998,"22,100.00",0.035
+8,Maria,Patterson,3445 Cheyenne Road,Bellevue,WA,98006,555-2291,03/09/1997,"30,000.00",0.039999999
+9,Daffy,Dumbwit,1234 Main Street,Kirkland,WA,98033,555-1234,05/02/2000,50,0.01

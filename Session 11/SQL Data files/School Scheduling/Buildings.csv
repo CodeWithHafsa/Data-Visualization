@@ -1,0 +1,7 @@
+BuildingCode,BuildingName,NumberOfFloors,ElevatorAccess,SiteParkingAvailable
+AS,Arts and Sciences,3,TRUE,TRUE
+CC,College Center,3,TRUE,FALSE
+GYM,PE and Wellness,1,FALSE,TRUE
+IB,Instructional Building,3,TRUE,TRUE
+LB,Library,2,TRUE,TRUE
+TB,Technology Building,2,TRUE,TRUE

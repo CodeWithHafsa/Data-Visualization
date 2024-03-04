@@ -1,0 +1,20 @@
+CategoryID,CategoryDescription,DepartmentID
+ACC,Accounting,1
+ART,Art,3
+BIO,Biology,2
+BUS,Business,1
+CHE,Chemistry,2
+CIS,Computer Information Systems,5
+CSC,Computer Science,5
+ECO,Economics,4
+ENG,English,3
+FRE,French,3
+GEG,Geography,4
+GER,German,3
+HIS,History,4
+JRN,Journalism,1
+MAT,Math,2
+MUS,Music,3
+PHY,Physics,2
+POL,Political Science,4
+PSY,Psychology,4

@@ -1,0 +1,28 @@
+StaffID,StfFirstName,StfLastname,StfStreetAddress,StfCity,StfState,StfZipCode,StfAreaCode,StfPhoneNumber,Salary,DateHired,Position
+98005,Suzanne,Viescas,"15127 NE 24th, #383",Redmond,WA,98052,425,555-2686,"44,000.00",31/05/1994,Faculty
+98007,Gary,Hallmark,"Route 2, Box 203B",Auburn,WA,98002,253,555-2676,"53,000.00",21/01/1993,Faculty
+98010,Jeffrey,Smith,30301 - 166th Ave. N.E.,Fremont,CA,94538,510,555-2596,"52,000.00",06/10/1991,Faculty
+98011,Ann,Patterson,16 Maple Lane,Marysville,WA,98271,253,555-2591,"45,000.00",16/10/1991,Faculty
+98012,Robert,Brown,672 Lamont Ave,Houston,TX,77201,713,555-2491,"49,000.00",09/02/1997,Faculty
+98013,Deb,Waldal,908 W. Capital Way,Tacoma,WA,98413,253,555-2496,"44,000.00",05/07/1994,Faculty
+98014,Peter,Brehm,722 Moss Bay Blvd.,Kirkland,WA,98033,425,555-2501,"60,000.00",16/07/1994,Faculty
+98019,Mariya,Sergienko,901 Pine Avenue,Portland,OR,97208,503,555-2526,"45,000.00",02/11/1997,Faculty
+98020,Jim,Glynn,13920 S.E. 40th Street,Bellevue,WA,98009,425,555-2531,"45,000.00",02/08/1993,Faculty
+98021,Tim,Smith,30301 - 166th Ave. N.E.,Seattle,WA,98106,206,555-2536,"40,000.00",17/12/1996,Registrar
+98025,Carol,Viescas,722 Moss Bay Blvd.,Kirkland,WA,98033,425,555-2576,"50,000.00",12/04/1992,Faculty
+98028,Alaina,Hallmark,"Route 2, Box 203B",Marysville,WA,98270,425,555-2631,"57,000.00",17/01/1992,Faculty
+98030,Liz,Keyser,13920 S.E. 40th Street,Bellevue,WA,98006,425,555-2556,"48,000.00",31/05/1996,Faculty
+98036,Sam,Abolrous,611 Alpine Drive,Palm Springs,CA,92263,760,555-2611,"60,000.00",20/11/1990,Faculty
+98040,Jim,Wilson,101 NE 88th,Salem,OR,97301,503,555-2636,"50,000.00",13/01/1995,Faculty
+98042,David,Smith,311 20th Ave. N.E.,Fremont,CA,94538,510,555-2646,"52,000.00",17/12/1999,Faculty
+98043,Kathryn,Patterson,16 Maple Lane,Seattle,WA,98115,206,555-2651,"25,000.00",14/11/1992,Secretary
+98045,Michael,Hernandez,PO Box 223311,Tacoma,WA,98413,253,555-2711,"60,000.00",20/08/1998,Faculty
+98048,Joyce,Bonnicksen,2424 Thames Drive,Bellevue,WA,98006,425,555-2726,"60,000.00",02/03/1994,Faculty
+98052,Katherine,Ehrlich,777 Fenexet Blvd,Redmond,WA,98052,425,555-0399,"45,000.00",08/03/1993,Faculty
+98053,Caleb,Viescas,4501 Wetland Road,Long Beach,CA,90809,562,555-0037,"45,000.00",10/02/2000,Faculty
+98055,Alastair,Black,3887 Easy Street,Seattle,WA,98125,206,555-0039,"60,000.00",11/12/1996,Faculty
+98057,Joe,Rosales III,7288 Barrister Ave N,Tacoma,WA,98413,253,555-2281,"35,000.00",25/11/1996,Graduate Advisor
+98059,Maria,Patterson,3445 Cheyenne Road,El Paso,TX,79993,915,555-2291,"48,000.00",17/09/1994,Faculty
+98062,Caroline,Coie,298 Forest Lane,Seattle,WA,98125,206,555-2306,"52,000.00",28/01/1991,Faculty
+98063,Kirk,DeGrasse,455 West Palm Ave,San Antonio,TX,78284,210,555-2311,"45,000.00",02/03/1996,Faculty
+98064,Luke,Patterson,877 145th Ave SE,Portland,OR,97208,503,555-2316,"56,000.00",20/08/1997,Faculty
